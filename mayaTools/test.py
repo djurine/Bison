@@ -1,3 +1,5 @@
 '''
-test
+author : djurine
+
+Premier test
 '''

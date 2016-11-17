@@ -1,5 +1,0 @@
-'''
-author : djurine
-
-Deuxieme test
-'''
